@@ -1,4 +1,5 @@
 # 🏥 Projet "Hôpital Connecté" 🚀
+![Aperçu du projet](hopital.png)
 
 **Équipe :**  
 - Chadi ABOUHNAIK *(IOM)*  
