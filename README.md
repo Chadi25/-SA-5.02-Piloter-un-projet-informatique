@@ -41,7 +41,7 @@ L'application offre les fonctionnalités suivantes :
   - Intégration avec Nodemailer et Postfix pour l'envoi d'alertes et de notifications.  
   - Historique des messages pour une meilleure traçabilité.  
 
-### 3. 🌐 **Vidéo de Présentation**  
+### 3. 🌐 **Vidéo de Présentation* https://youtu.be/rEwd-Cu7R1c?feature=shared*  
 Une **vidéo détaillée** illustre :  
 - Le fonctionnement de l'application.  
 - La configuration de l'infrastructure réseau.  
